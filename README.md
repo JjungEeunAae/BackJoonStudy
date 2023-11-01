@@ -13,9 +13,21 @@
 <br/><br/>
 
 ⭐Link
-<br/>
-<a href="https://eun-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/></a>
-<a href=" https://pool-cover-73b.notion.site/STUDY-5450635467b146e7a6a21c6faeb92099?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/></a>
+
+<br/><br/>
+
+<ul>
+  <li>
+    <a href="https://eun-developer.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/>
+    </a>
+  </li>
+  <li>
+    <a href=" https://pool-cover-73b.notion.site/STUDY-5450635467b146e7a6a21c6faeb92099?pvs=4" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/>
+    </a>
+  </li>
+</ul>
 
 <br/><br/>
 
