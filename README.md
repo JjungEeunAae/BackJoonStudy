@@ -24,7 +24,7 @@
 
 <br/>
 
-<h3>⭐Link</h3>
+<h4>⭐Link</h4>
 
 <ul>
   <li>
@@ -59,13 +59,13 @@
 
 <br/>
 
-<h3>⭐사용한 언어 비율</h3>
+<h4>⭐사용한 언어 비율</h4>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAae&layout=compact">
 
-<br/>
+<br/><br/><br/>
 
-<h4>🫶끝까지 읽어주셔서 감사합니다🫶</h4>
+<h3>🫶끝까지 읽어주셔서 감사합니다🫶</h3>
 
 <br/><br/><br/><br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF6739&title_bg=%23949494&icon=googleads.svg&icon_color=%23515151&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
