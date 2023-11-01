@@ -7,4 +7,4 @@
 ⭐ 개인 블로그 링크 : https://eun-developer.tistory.com/
 ⭐ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAea)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAae)](https://github.com/anuraghazra/github-readme-stats)
