@@ -1,4 +1,6 @@
-# BackJoonStudy
+# Coding Test
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Coding Test&fontSize=90" />
+
 💡백준 및 프로그래머스를 통해 푼 문제를 담는 레파지토리입니다💡
 
 문제 풀이는 개인 블로그에 업로드 할 예정입니다.
