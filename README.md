@@ -1,5 +1,8 @@
 # BackJoonStudy
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+💡백준을 JAVA로 푼 문제를 담은 레파지토리입니다💡
 
+문제 풀이는 개인 블로그에 업로드 할 예정입니다.
+최근에 블로그를 개설하여 아직까진 글 개수가 많지 않습니다.
 
-테스트
+⭐ 개인 블로그 링크 : https://eun-developer.tistory.com/
+⭐ 
