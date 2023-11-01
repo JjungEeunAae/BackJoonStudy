@@ -7,7 +7,7 @@
 최근에 블로그를 개설하여 아직까진 글 개수가 많지 않습니다.
 <br/><br/>
 ⭐ 개인 블로그 링크 : 
- <a href="https://eun-developer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/></a>
+ <a href="https://eun-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/></a>
 
 <br/><br/>
 ⭐사용한 언어 비율
