@@ -13,9 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAae&layout=compact">
 <br/><br/>
 
-⭐방문자 수
-<br/><br/>
+⭐
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF6739&title_bg=%23949494&icon=googleads.svg&icon_color=%23515151&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
