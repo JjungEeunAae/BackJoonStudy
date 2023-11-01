@@ -1,10 +1,24 @@
 # Coding Test
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=안녕하세요%20JjungEeunAae입니다.&fontSize=50&fontColor=ffffff" />
-<h3>💡백준 및 프로그래머스를 통해 푼 문제를 담는 레파지토리입니다💡</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=소개%20및%20안내&fontSize=50&fontColor=ffffff" />
+<h1>✏️BeakjoonHub💻</h1>
+
+백준허브(BeakjoonHub)를 통해 지정된 사이트에 제출한 코드를 자동으로 푸시해주는 프로그램을 사용하였습니다.
+
+<h3>🐈문제풀이 기록용🐕</h3>
+
+백준 및 프로그래머스를 통해 푼 문제를 담는 레파지토리입니다.
+
+혼자 힘으로 푼 문제들도 있지만 다른 분들의 코드를 참고하여 푼 문제도 포함되어 있습니다.
+
+<br/>
+
+<h3>❤️‍🔥참 고❤️‍🔥</h3>
 
 문제 풀이는 개인 블로그에 업로드 할 예정입니다.
 
 최근에 블로그를 개설하여 아직까진 글 개수가 많지 않습니다.
+
+블로그 외 저의 노력을 담은 결과물을 차례대로 담을 예정입니다.
 
 <br/>
 
@@ -46,6 +60,10 @@
 <h3>⭐사용한 언어 비율</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAae&layout=compact">
+
+<br/>
+
+<h4>🫶끝까지 읽어주셔서 감사합니다🫶</h4>
 
 <br/><br/><br/><br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF6739&title_bg=%23949494&icon=googleads.svg&icon_color=%23515151&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
