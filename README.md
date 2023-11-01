@@ -19,9 +19,13 @@
   <li><span>notion</span>
     <ul> 
       <li><span>개인공부</span>
-        <a href="https://pool-cover-73b.notion.site/STUDY-5450635467b146e7a6a21c6faeb92099?pvs=4" target="_blank">
-          <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/>
-        </a>
+        <ul>
+          <li>
+            <a href="https://pool-cover-73b.notion.site/STUDY-5450635467b146e7a6a21c6faeb92099?pvs=4" target="_blank">
+              <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/>
+            </a>
+          </li>
+        </ul>
       </li>
       <li><span>직업전문학교</span>
         <a href="https://pool-cover-73b.notion.site/Share-742e3aa2c7b74648ae79f07f9af35e67?pvs=4" target="_blank">
