@@ -7,7 +7,7 @@
 최근에 블로그를 개설하여 아직까진 글 개수가 많지 않습니다.
 
 
-⭐Link
+<h3>⭐Link</h3>
 
 <ul>
   <li>
@@ -23,7 +23,7 @@
 </ul>
 
 
-⭐사용한 언어 비율
+<h3>⭐사용한 언어 비율</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjungEeunAae&layout=compact">
 
