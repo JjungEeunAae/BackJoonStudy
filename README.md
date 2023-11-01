@@ -34,7 +34,7 @@
   </li>
   <li><span>notion</span>
     <ul> 
-      <li><span>개인공부</span>
+      <li><span><strong>개인공부</strong></span>
         <ul>
           <li>
             <a href="https://pool-cover-73b.notion.site/STUDY-5450635467b146e7a6a21c6faeb92099?pvs=4" target="_blank">
