@@ -11,7 +11,7 @@
 <h3>⭐Link</h3>
 
 <ul>
-  <li><span>tistory</span>
+  <li>
     <a href="https://eun-developer.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/>
     </a>
@@ -28,9 +28,13 @@
         </ul>
       </li>
       <li><span>직업전문학교</span>
-        <a href="https://pool-cover-73b.notion.site/Share-742e3aa2c7b74648ae79f07f9af35e67?pvs=4" target="_blank">
-          <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/>
-        </a>
+        <ul>
+          <li>
+            <a href="https://pool-cover-73b.notion.site/Share-742e3aa2c7b74648ae79f07f9af35e67?pvs=4" target="_blank">
+              <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badget&logo=notion&logoColor=black"/>
+            </a>
+          </li>
+        </ul>
       </li>
     </ul>
     
