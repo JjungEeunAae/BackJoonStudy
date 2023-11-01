@@ -1,7 +1,6 @@
 # Coding Test
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=내용%20참고&fontSize=90&fontColor=ffffff" />
-💡백준 및 프로그래머스를 통해 푼 문제를 담는 레파지토리입니다💡
-
+<h1>💡백준 및 프로그래머스를 통해 푼 문제를 담는 레파지토리입니다💡</h1>
 
 문제 풀이는 개인 블로그에 업로드 할 예정입니다.
 
