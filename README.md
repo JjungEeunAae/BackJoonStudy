@@ -30,7 +30,7 @@
 
 <ul>
   <li>
-    <a href="https://eun-developer.tistory.com/](https://eun-developer.tistory.com/category/💡문제%20풀이" target="_blank">
+    <a href="https://eun-developer.tistory.com/category/💡문제%20풀이" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/>
     </a>
   </li>
