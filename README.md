@@ -30,7 +30,7 @@
 
 <ul>
   <li>
-    <a href="https://eun-developer.tistory.com/" target="_blank">
+    <a href="[https://eun-developer.tistory.com/](https://eun-developer.tistory.com/category/%F0%9F%92%A1%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4)" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-FD5F07?style=for-the-badget&logo=tistory&logoColor=white"/>
     </a>
   </li>
