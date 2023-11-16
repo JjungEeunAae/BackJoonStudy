@@ -21,9 +21,15 @@ public class Main {
 			
 			int c = Integer.parseInt(str.split(" ")[1]);
 			
-			System.out.println("Case #"+(i)+": "+(b + c));
-			
+			bw.write("Case #" + i + ": " + (b + c) + "\n");
 		}
 		
+		// 입력 종료
+		br.close();
+		
+		// 출력 비우고
+		bw.flush();
+		// 출력 종료
+		bw.close();
 	}
 }
