@@ -1,23 +1,30 @@
-import java.util.*;
+import java.io.*;
+import java.util.StringTokenizer;
 
 public class Main {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-
-		List <Integer> arr = new ArrayList<Integer>();
+	public static void main(String[] args) throws IOException {
+		// InputStream : 자바의 가장 기본이 되는 입력 스트림
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		// OutputStreamWriter : 자바의 가장 기본이 되는 출력 스트림
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
-		while (true){
-			int a = sc.nextInt();
-			int b = sc.nextInt();
+		StringTokenizer str;
+		
+		while(true) {
+			str = new StringTokenizer(br.readLine(), " ");
 			
-			if(a+b == 0) {
+			int A = Integer.parseInt(str.nextToken());
+			int B = Integer.parseInt(str.nextToken());
+			
+			if(A + B == 0) {
 				break;
 			}
-			arr.add(a+b);
-		};
+			
+			bw.write( (A + B) + " \n");
+		}
+		br.close();
 		
-		for(Integer j : arr) {
-			System.out.println(j);
-		};
+		bw.flush();
+		bw.close();
 	}
 }
