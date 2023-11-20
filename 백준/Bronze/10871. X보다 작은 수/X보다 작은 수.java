@@ -1,25 +1,32 @@
-import java.util.*;
+import java.io.*;
+import java.util.StringTokenizer;
 
 public class Main {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();	//배열이 될 숫자
-		int x = sc.nextInt();	//x보다 작은 숫자를 찾는 것
+	public static void main(String[] args) throws IOException {
+		// InputStream : 자바의 가장 기본이 되는 입력 스트림
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		// OutputStreamWriter : 자바의 가장 기본이 되는 출력 스트림
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
-		int[] arr = new int[n];	//배열의 길이
-		List<Integer> arr2 = new ArrayList<Integer>();
+		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		
-		for(int i = 0 ; i < n ; i++) {
-			int num = sc.nextInt();	//입력할 숫자
+		int n = Integer.parseInt(st.nextToken());
+		int x = Integer.parseInt(st.nextToken());
+		int[] arr = new int[n];
+		
+		st = new StringTokenizer(br.readLine(), " ");
+		
+		for(int i = 0 ; i < arr.length ; i++) {
+			arr[i] = Integer.parseInt(st.nextToken());
 			
-			if(x > num) {
-				arr2.add(num);
+			if(arr[i] < x) {
+				bw.write(arr[i] + " ");
 			}
-		};
-		
-		for(Integer j : arr2) {
-			System.out.print(j + " ");
 		}
 		
+		br.close();
+		
+		bw.flush();
+		bw.close();
 	}
 }
