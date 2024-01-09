@@ -4,10 +4,8 @@ class Solution {
         
         if(num1 != num2) {
             answer = -1;
-            System.out.println(answer);
-        } else {
-            System.out.println(answer);
-        };
+        }
+        
         return answer;
     }
 }
